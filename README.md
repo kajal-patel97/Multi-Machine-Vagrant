@@ -35,6 +35,8 @@ Vagrant.configure("2") do |config|
 
   - this is from the mongodb directory, need to define where you are reading from which is db.
 
+# Check to see if the failures are completed
+
 # To check if app is running
 
-go into the app file and npm install and npm start and go on to the host name to check it is running 
+go into the app file and npm install and npm start and go on to the host name to check it is running
